@@ -28,7 +28,7 @@
 
 ##  PAIRING CODE SCAN
 
-<a href="https://rcd-md-session-id.onrender.com"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://rcd-md-pair-new.onrender.com"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ## DEPLOY IN HEROKU
 
